@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Next.Js**
 
-- 👨‍💻 All of my projects are available at [sukhad123](sukhad123)
+- 👨‍💻 All of my projects are available at [sukhad123])
 
 - 📫 How to reach me **sukhadadhikari3@gmail.com**
 
