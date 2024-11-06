@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukhad Adhikari</h1>
- 
 
-- 🌱 I’m currently learning **React, Next.Js,Python, Data Structure and Algorithm**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sukhad123](https://github.com/sukhad123)
-
-- 💬 Ask me about **JavaScript, C++ and Python**
-
-- 📫 How to reach me **sukhadadhikari3@gmail.com**
-
-- ⚡ Fun fact **I love to talk about business and trading.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
