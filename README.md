@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am a aspiring Software Developer.
+Software Developer
 
 
 ## 🌐 Socials:
